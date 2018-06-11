@@ -1,6 +1,6 @@
-KettlebellWorkout
+KettlebellTimer
 =================
-KettlebellWorkout is designed for kettlebell sport athletes to use during training sessions. It allows you to specify
+KettlebellTimer is designed for kettlebell sport athletes to use during training sessions. It allows you to specify
 both the duration of a training set and the numer of reps per minute.
 
 Settings
